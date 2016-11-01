@@ -1,0 +1,11 @@
+name: bitly
+version: 0.1.0
+
+authors:
+  - Jonathan B. <greenbigfrog@gmail.com>
+
+license: MIT
+
+dependencies:
+  dotenv:
+    github: gdotdesign/cr-dotenv
